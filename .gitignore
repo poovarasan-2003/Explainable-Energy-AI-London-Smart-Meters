@@ -87,6 +87,7 @@ data/daily_dataset
 data/halfhourly_dataset
 data/hhblock_dataset
 data/others
+data/final_dataset
 
 #vscode workspace
 ai_sustainbility_project.code-workspace
